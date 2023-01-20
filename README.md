@@ -105,4 +105,4 @@ Associated with coursework as a graduate student at Northeastern University, Bos
     10. The shipment will finally be delivered to the receiver by the delivery person from the
       final warehouse.
       
- [ER-MCSMv1](https://user-images.githubusercontent.com/114704336/213800233-5f7fdfe5-0172-4401-b2c8-42e5053eb28d.png)
+ ![ER-MCSMv1](https://user-images.githubusercontent.com/114704336/213800233-5f7fdfe5-0172-4401-b2c8-42e5053eb28d.png)
